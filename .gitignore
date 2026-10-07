@@ -1,0 +1,4 @@
+WeegeeInfer/target/
+*.tgz
+.env
+.env.*
